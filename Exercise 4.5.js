@@ -4,5 +4,5 @@ function calcDistance(A, B) {
   return Math.sqrt(dx * dx + dy * dy);
 }
 
-console.log(calcDistance([1, 1], [2, 2])); // 1.41
-console.log(calcDistance([1, 1], [3, 1])); // 2
+console.log(calcDistance([1, 1], [2, 2])); 
+console.log(calcDistance([1, 1], [3, 1])); 
